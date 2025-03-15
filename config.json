@@ -1,0 +1,18 @@
+{
+  "/*": "Don't modify slug - If required, do it using cli edit command",
+  "name": "Clinic Booking",
+  "slug": "clinic-booking",
+  "type": "clinibook_calendar",
+  "logo": "icon.svg",
+  "url": "https://example.com/link",
+  "variant": "calendar",
+  "categories": [
+    "calendar"
+  ],
+  "publisher": "Karel Muniz",
+  "email": "oricha@gmail.com",
+  "description": "Application for making appointments for medical clinics and dentists",
+  "isTemplate": false,
+  "__createdUsingCli": true,
+  "__template": "basic"
+}
